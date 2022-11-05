@@ -1,0 +1,93 @@
+body {
+    margin: 0px; 
+}
+
+.default {
+    margin-bottom: 10px; 
+    box-sizing: border-box; 
+}
+.header {
+    width: 100vw; 
+    height: 80px; 
+    padding-left: 40px; 
+    padding-top: 20px; 
+    box-sizing: border-box; 
+}
+
+.headerLogo {
+    width: 25px; 
+    margin-bottom: -5px; 
+}
+
+.headerLeft {
+    width: 50%; 
+    height: 100%; 
+    float: left; 
+    font-weight: bold; 
+    font-size: 14pt; 
+    margin-top: +10px; 
+    font-family: "Sans Serif";
+}
+
+.headerRight {
+    width: 50%; 
+    height: 100%; 
+    float: right;
+    text-align: right; 
+}
+
+.headerLink {
+    display: inline-block; 
+    padding-left: 20px; 
+}
+
+.button {
+    background-color: black; 
+    width: 75px; 
+    height: 20px; 
+    color: white; 
+    border-radius: 10px; 
+    padding: 10px; 
+    text-align: center; 
+    cursor: pointer; 
+    margin-left: 25px; 
+    margin-right: 25px; 
+}
+
+.headButton {
+    display: inline-block; 
+    padding-left: 10px; 
+}
+
+
+.subscribe {
+    background-color: #c00; 
+    width: 85px; 
+    color: white; 
+    padding: 10px; 
+    border-radius: 2px; 
+    font-family: roboto; 
+    text-align: center; 
+    cursor: pointer; 
+}
+
+
+.par {
+    text-decoration: underline;
+    font-size: 12pt; 
+}
+.blockone {
+    padding: 30px; 
+    margin: 10px; 
+    border: 3px solid black; 
+    background-color: blueviolet;
+}
+.blocktwo {
+    padding: 0px; 
+    margin: 10px; 
+    border: 3px dotted black; 
+    background-color: red; 
+}
+.cat{
+    width: 300px; 
+}
